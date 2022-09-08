@@ -8,6 +8,7 @@
 		"start": "node server.js"
 	},
 	"repository": {
+		"author": "Jane Doe",
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
